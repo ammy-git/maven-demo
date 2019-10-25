@@ -24,18 +24,18 @@
              </plugin>
         </plugins>
     </build>
-<!--
+
 <distributionManagement>
     <repository>
       <id>deployment</id>
       <name>Internal Release</name>
-      <url>http://13.235.23.61:8081/repository/testrepo/</url>
+      <url>http://13.126.119.70:8081/repository/SAMPLE-REL/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
       <name>Internal Snapshot Release</name>
-      <url>http://13.235.23.61:8081/repository/testsnap/</url>
+      <url>http://13.126.119.70:8081/repository/SAMPLE-SNAP/</url>
     </snapshotRepository>
   </distributionManagement>
--->
+
 </project>
